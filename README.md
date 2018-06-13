@@ -1,4 +1,4 @@
-# wednesday
+# :tada: wednesday :tada:
 
-This is a new repository
-:smiley:
+:sparkles: This is a new repository :sparkles:
+          :smiley:
